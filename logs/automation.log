@@ -1,0 +1,65 @@
+13:36:15.083 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+13:36:31.591 [main] INFO  testCases.MainTest - opening BeCognizant
+13:36:32.992 [main] INFO  testCases.MainTest - getting user information
+13:36:33.250 [main] INFO  testCases.MainTest - opening OneCognizant
+13:36:33.947 [main] INFO  testCases.MainTest - Navigated to OneCognizant
+13:36:36.631 [main] INFO  testCases.MainTest - clicked on gsd from results
+13:36:36.808 [main] INFO  testCases.MainTest - Navigated to gsd
+13:36:46.887 [main] INFO  testCases.MainTest - switched to appframe
+13:36:46.912 [main] INFO  testCases.MainTest - validating default language
+13:36:46.935 [main] INFO  testCases.MainTest - Validating default country
+13:36:47.386 [main] INFO  testCases.MainTest - getting all language options from language drop down box
+13:36:49.652 [main] INFO  testCases.MainTest - getting tooltips data from three random countries
+13:37:03.249 [main] INFO  testCases.MainTest - *************closing the browser**********
+13:59:06.902 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+13:59:24.119 [main] INFO  testCases.MainTest - opening BeCognizant
+13:59:24.768 [main] INFO  testCases.MainTest - getting user information
+13:59:25.041 [main] INFO  testCases.MainTest - opening OneCognizant
+13:59:26.015 [main] INFO  testCases.MainTest - Navigated to OneCognizant
+13:59:30.361 [main] INFO  testCases.MainTest - clicked on gsd from results
+13:59:30.538 [main] INFO  testCases.MainTest - Navigated to gsd
+13:59:40.611 [main] INFO  testCases.MainTest - switched to appframe
+13:59:40.638 [main] INFO  testCases.MainTest - validating default language
+13:59:40.666 [main] INFO  testCases.MainTest - Validating default country
+13:59:41.073 [main] INFO  testCases.MainTest - getting all language options from language drop down box
+13:59:43.260 [main] INFO  testCases.MainTest - getting tooltips data from three random countries
+13:59:58.506 [main] INFO  testCases.MainTest - *************closing the browser**********
+15:06:45.460 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+15:07:02.312 [main] INFO  testCases.MainTest - opening BeCognizant
+15:07:02.924 [main] INFO  testCases.MainTest - getting user information
+15:07:03.168 [main] INFO  testCases.MainTest - opening OneCognizant
+15:07:03.859 [main] INFO  testCases.MainTest - Navigated to OneCognizant
+15:07:07.312 [main] INFO  testCases.MainTest - clicked on gsd from results
+15:07:07.513 [main] INFO  testCases.MainTest - Navigated to gsd
+15:07:17.581 [main] INFO  testCases.MainTest - switched to appframe
+15:07:17.606 [main] INFO  testCases.MainTest - validating default language
+15:07:17.626 [main] INFO  testCases.MainTest - Validating default country
+15:07:18.029 [main] INFO  testCases.MainTest - getting all language options from language drop down box
+15:07:20.004 [main] INFO  testCases.MainTest - getting tooltips data from three random countries
+15:07:39.637 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+15:08:45.780 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+15:09:03.094 [main] INFO  testCases.MainTest - opening BeCognizant
+15:09:03.883 [main] INFO  testCases.MainTest - getting user information
+15:09:04.261 [main] INFO  testCases.MainTest - opening OneCognizant
+15:09:05.495 [main] INFO  testCases.MainTest - Navigated to OneCognizant
+15:09:10.654 [main] INFO  testCases.MainTest - clicked on gsd from results
+15:09:10.880 [main] INFO  testCases.MainTest - Navigated to gsd
+15:09:20.961 [main] INFO  testCases.MainTest - switched to appframe
+15:09:20.995 [main] INFO  testCases.MainTest - validating default language
+15:09:21.024 [main] INFO  testCases.MainTest - Validating default country
+15:09:21.605 [main] INFO  testCases.MainTest - getting all language options from language drop down box
+15:09:25.557 [main] INFO  testCases.MainTest - getting tooltips data from three random countries
+15:09:44.545 [main] INFO  testCases.MainTest - *************closing the browser**********
+15:10:00.015 [main] INFO  testCases.MainTest - ***** starting MainTest *****
+15:10:16.699 [main] INFO  testCases.MainTest - opening BeCognizant
+15:10:17.333 [main] INFO  testCases.MainTest - getting user information
+15:10:17.553 [main] INFO  testCases.MainTest - opening OneCognizant
+15:10:18.143 [main] INFO  testCases.MainTest - Navigated to OneCognizant
+15:11:24.224 [main] INFO  testCases.MainTest - clicked on gsd from results
+15:11:24.674 [main] INFO  testCases.MainTest - Navigated to gsd
+15:11:34.816 [main] INFO  testCases.MainTest - switched to appframe
+15:11:34.840 [main] INFO  testCases.MainTest - validating default language
+15:11:34.864 [main] INFO  testCases.MainTest - Validating default country
+15:11:35.491 [main] INFO  testCases.MainTest - getting all language options from language drop down box
+15:11:39.168 [main] INFO  testCases.MainTest - getting tooltips data from three random countries
+15:12:00.736 [main] INFO  testCases.MainTest - *************closing the browser**********
